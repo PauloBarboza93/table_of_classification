@@ -1,0 +1,23 @@
+{
+  "name": "table_of_classification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloBarboza93/table_of_classification.git"
+  },
+  "keywords": [],
+  "author": "Paulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloBarboza93/table_of_classification/issues"
+  },
+  "homepage": "https://github.com/PauloBarboza93/table_of_classification#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
