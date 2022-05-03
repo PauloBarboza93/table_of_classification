@@ -1,0 +1,47 @@
+{
+    "informacoes": {
+        "estados": [
+            {
+                "id": 1,
+                "nome": "Pernambuco"
+            },
+            {
+                "id": 2,
+                "nome": "Minas Gerais"
+            },
+            {
+                "id": 3,
+                "nome": "Rio Grande do Sul"
+            }
+        ],
+        "treinadores": [
+            {
+                "id": 1,
+                "nome": "Gustavo Florentin"
+            },
+            {
+                "id": 2,
+                "nome": "Antonio Mohamed"
+            },
+            {
+                "id": 3,
+                "nome": "Roger Machado"
+            }
+        ]
+    },
+    "situacao": [
+        {
+            "id": 1,
+            "status": "Classificado"
+        },
+        {
+            "id": 2,
+            "status": "Neutro"
+        },
+        {
+            "id": 3,
+            "status": "Rebaixado"
+        }
+    ],
+    "times": []
+}
